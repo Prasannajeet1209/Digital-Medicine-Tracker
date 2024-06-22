@@ -47,7 +47,7 @@ Apache tomcaat [apache-tomcat-7.0.82]
 Eclipse
 Installation and Setup
 Clone the repository.
-git clone https://github.com/jayeshsonavane2025/Digital_Medicine_Tracker.git
+git clone 
 
 Set up the database using XAMPP.
 
@@ -61,4 +61,4 @@ Contributing
 Contributions are welcome! To contribute to the project, please follow the guidelines outlined in the CONTRIBUTING file.
 
 Contact
-Feel free to contact me at mailto:jayeshsonavane2025@gmail.com for any questions, feedback, or collaboration opportunities.
+Feel free to contact me at mailto:jainprasannajeetdev@gmail.com for any questions, feedback, or collaboration opportunities.
